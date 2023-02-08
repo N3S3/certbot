@@ -17,7 +17,7 @@ colorama==0.4.4; sys_platform == "win32" and python_version >= "3.7"
 configargparse==0.10.0
 configobj==5.0.6
 coverage==6.3.2; python_version >= "3.7"
-cryptography==3.2.1
+cryptography==39.0.1
 cython==0.29.28
 distlib==0.3.4; python_version >= "3.7"
 distro==1.0.1
